@@ -1,8 +1,5 @@
 <a href="https://pdfhost.io/v/Z9qFQKoMD_CV_Alex_Kovalyshyn.pdf" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:kovalyshyn.alex@gmail.com"><img src="https://img.shields.io/badge/Email-Alex-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/skovalyshyn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Alex%20Kovalyshyn-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
-<!-- # Hello!
-*Thanks for stopping by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. -->
-
 # ZNO Test
 ZNO Test is my pet-project that im working on right now. It is an application for Ukrainian school students that allow practicing for the ZNO test (analog of SAT (Standardized Aptitude Tests) or GRE (Graduate Record Examination) in the USA).
 
