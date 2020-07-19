@@ -1,13 +1,15 @@
-# Portfolio
-
-<a href="https://pdfhost.io/v/ZVTWcaC3I_CV_Alex_Kovalyshyn.pdf" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:kovalyshyn.alex@gmail.com"><img src="https://img.shields.io/badge/Email-Alex-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/skovalyshyn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Alex%20Kovalyshyn-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="https://pdfhost.io/v/Z9qFQKoMD_CV_Alex_Kovalyshyn.pdf" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:kovalyshyn.alex@gmail.com"><img src="https://img.shields.io/badge/Email-Alex-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/skovalyshyn/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Alex%20Kovalyshyn-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
 <!-- # Hello!
 *Thanks for stopping by*. This repo serves as a kind of ever-changing portfolio of projects I'm currently excited about; please feel free to look around. -->
 
 # ZNO Test
 ZNO Test is my pet-project that im working on right now. It is an application for Ukrainian school students that allow practicing for the ZNO test (analog of SAT (Standardized Aptitude Tests) or GRE (Graduate Record Examination) in the USA).
- 
+
+* MVP (Model-View-Presenter) architecture
+* Realm database
+* Fully programmatically UI 
+* Firebase backend
 
 <img src="https://user-images.githubusercontent.com/33416429/87863994-23c89480-c917-11ea-8994-78a559d37c37.jpg" width="250" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863992-232ffe00-c917-11ea-93d8-f5e28269aef2.jpg" width="250" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863988-1f03e080-c917-11ea-862b-cbc1debff210.jpg" width="250" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863993-232ffe00-c917-11ea-92d1-85e14db86161.jpg" width="250" title="ZNO Test">
 
@@ -50,7 +52,15 @@ Run with Firebase backend.
 <img src="https://user-images.githubusercontent.com/33416429/87863810-73f22780-c914-11ea-9f27-e2d92d2f032c.jpg" width="228" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863809-705ea080-c914-11ea-8417-e7b221657ad5.jpg" width="228" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863813-75235480-c914-11ea-837a-5e496f715eea.jpg" width="230" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863812-748abe00-c914-11ea-87a6-fc30bbb47d51.jpg" width="228" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863811-73f22780-c914-11ea-92ce-ea242c6ae8d8.jpg" width="228" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863814-75bbeb00-c914-11ea-9066-e6705263a47d.jpg" width="230"  title="Twitter clone">
 </p>
 
+# Firebase auth + Transition animation practice
 
+* Implemented Firebase Auth
+* Background gradient animation
+* Transition animation
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/33416429/87865979-5b900600-c930-11ea-988d-6e075526e8b9.gif" width="228" title="Transition animation practice">
+</p>
 
 
 ## Thanks for stopping by!
