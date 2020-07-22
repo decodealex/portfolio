@@ -8,7 +8,7 @@ ZNO Test is my pet-project that im working on right now. It is an application fo
 * Fully programmatically UI 
 * Firebase backend
 
-<img src="https://user-images.githubusercontent.com/33416429/87863994-23c89480-c917-11ea-8994-78a559d37c37.jpg" width="250" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863992-232ffe00-c917-11ea-93d8-f5e28269aef2.jpg" width="250" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863988-1f03e080-c917-11ea-862b-cbc1debff210.jpg" width="250" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863993-232ffe00-c917-11ea-92d1-85e14db86161.jpg" width="250" title="ZNO Test">
+<img src="https://user-images.githubusercontent.com/33416429/87863994-23c89480-c917-11ea-8994-78a559d37c37.jpg" width="230" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863992-232ffe00-c917-11ea-93d8-f5e28269aef2.jpg" width="230" title="ZNO Test">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863988-1f03e080-c917-11ea-862b-cbc1debff210.jpg" width="230" title="ZNO Test"><img src="https://user-images.githubusercontent.com/33416429/87863993-232ffe00-c917-11ea-92d1-85e14db86161.jpg" width="230" title="ZNO Test">
 
 </p>
 
@@ -29,7 +29,7 @@ The user can save his favorite GitHub accounts and have access to them through t
 * REST API.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/87863341-042d6e00-c90f-11ea-96c9-a65b33884e89.jpg" width="230"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863343-07285e80-c90f-11ea-820a-86d43226f652.jpg" width="230" title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863346-08598b80-c90f-11ea-9c24-d60536cf5220.jpg" width="226" title="GitHub Profiles">
+<img src="https://user-images.githubusercontent.com/33416429/87863341-042d6e00-c90f-11ea-96c9-a65b33884e89.jpg" width="230"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863343-07285e80-c90f-11ea-820a-86d43226f652.jpg" width="230" title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863346-08598b80-c90f-11ea-9c24-d60536cf5220.jpg" width="230" title="GitHub Profiles">
 </p>
 
 # [Twitter clone](https://github.com/skovalysh/SkovTwitter)
@@ -46,7 +46,7 @@ Run with Firebase backend.
 * Dynamically sized collection view cells
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/33416429/87863810-73f22780-c914-11ea-9f27-e2d92d2f032c.jpg" width="228" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863809-705ea080-c914-11ea-8417-e7b221657ad5.jpg" width="228" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863813-75235480-c914-11ea-837a-5e496f715eea.jpg" width="230" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863812-748abe00-c914-11ea-87a6-fc30bbb47d51.jpg" width="228" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863811-73f22780-c914-11ea-92ce-ea242c6ae8d8.jpg" width="228" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863814-75bbeb00-c914-11ea-9066-e6705263a47d.jpg" width="230"  title="Twitter clone">
+<img src="https://user-images.githubusercontent.com/33416429/87863810-73f22780-c914-11ea-9f27-e2d92d2f032c.jpg" width="230" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863809-705ea080-c914-11ea-8417-e7b221657ad5.jpg" width="230" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863813-75235480-c914-11ea-837a-5e496f715eea.jpg" width="230" title="Twitter clone"><img src="https://user-images.githubusercontent.com/33416429/87863812-748abe00-c914-11ea-87a6-fc30bbb47d51.jpg" width="230" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863811-73f22780-c914-11ea-92ce-ea242c6ae8d8.jpg" width="230" title="Twitter clone">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/87863814-75bbeb00-c914-11ea-9066-e6705263a47d.jpg" width="230"  title="Twitter clone">
 </p>
 
 # Firebase auth + Transition animation practice
