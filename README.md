@@ -13,7 +13,34 @@ ZNO Test is my pet-project that im working on right now. It is an application fo
 
 </p>
 
+# [Straight Ur Back](https://apps.apple.com/us/app/id1531009911) 
+<p align="left"> <a href="https://apps.apple.com/us/app/id1531009911" download><img src="https://user-images.githubusercontent.com/33416429/92803227-11456700-f36c-11ea-9d0a-f51c0e848163.png" width="150" ></a>
+</p>
+Straight Ur Back is an application that reminds you to keep your back straight. You can choose a time interval and how often you want to receive notifications. 
+
+* MVP (Model-View-Presenter) architecture
+* Firebase Analytics
+* UserDefaults
+* Local Notifications
+* Fully programmatically UI 
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/33416429/92800949-05f13c00-f36a-11ea-8d58-513b0d759c96.jpg" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/92800926-02f64b80-f36a-11ea-9213-904f52359a83.jpg" width="230" title="StraightUrBack">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/92800943-0558a580-f36a-11ea-94b6-15d054a5e51f.jpg" width="230" title="StraightUrBack">
+
+</p>
+
+# [TakeHome Project](https://github.com/skovalysh/take-home-project)
+<p align="left"> <a href="https://github.com/skovalysh/take-home-project"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+Take-home project for one of the companies that I applied for a job.
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/33416429/92813310-ce888c80-f375-11ea-9f74-11e9f95f5596.jpg" width="230" title="ARKit Face Tracking feature">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/92813328-d5170400-f375-11ea-87dc-fc54568e07f3.gif" width="230"  title="ARKit Face Tracking feature">
+</p>
+
 # [GitHub Profiles](https://github.com/skovalysh/GitHubProfiles)
+<p align="left"> <a href="https://github.com/skovalysh/GitHubProfiles"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
 GitHub Profiles is an MVC practice project.
 GitHub Profiles is an application where users can search for a GitHub account and view its followers, GitHub profile, and various info.
 The user can save his favorite GitHub accounts and have access to them through the Favorites tab.
@@ -34,6 +61,8 @@ The user can save his favorite GitHub accounts and have access to them through t
 </p>
 
 # [Twitter clone](https://github.com/skovalysh/SkovTwitter)
+<p align="left"> <a href="https://github.com/skovalysh/SkovTwitter"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
 Twitter clone is an MVVM (no RxSwift) practice project.
 Twitter clone is a fully functional clone of the Twitter application. Users can sign up / sign in. Post a tweet and add a comment. Follow and unfollow users. Receive notifications about new mentions and tweets in the "Notification tab".
 Run with Firebase backend.
@@ -61,13 +90,13 @@ Run with Firebase backend.
 </p>
 
 # [ARKit + Face Tracking practice](https://github.com/skovalysh/FaceMoji)
-
+<p align="left"> <a href="https://github.com/skovalysh/FaceMoji"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
 * ARKit Face Tracking feature
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/33416429/88236681-64cfea00-cc32-11ea-8dac-5013d1e660dc.jpg" width="230" title="ARKit Face Tracking feature">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/33416429/88236534-16225000-cc32-11ea-8079-93716c06e8c3.gif" width="230"  title="ARKit Face Tracking feature">
 </p>
-
 
 ## Thanks for stopping by!
 
